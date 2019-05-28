@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Binaries
+gdesktoppr-next
+
+.idea/

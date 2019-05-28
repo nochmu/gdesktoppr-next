@@ -1,0 +1,18 @@
+{
+  "name": "@noctaru/gdesktoppr-next",
+  "version": "0.0.1",
+  "description": "Desktoppr client for GNOME",
+  "main": "gdesktoppr-next.js",
+  "bin": "gdesktoppr-next.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Muehlhaus - https://github.com/nochmu",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "expand-home-dir": "0.0.3",
+    "home-config": "^0.1.0",
+    "request": "^2.88.0"
+  },
+  "false": {}
+}
