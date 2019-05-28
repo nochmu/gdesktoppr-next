@@ -1,0 +1,2 @@
+# Change the background image at 9 am.
+* 9 * * *     /bin/bash -l -c 'gdesktoppr-next'
